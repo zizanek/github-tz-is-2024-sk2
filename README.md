@@ -13,3 +13,7 @@ Datum a čas provedení změny: 2024-10-02, 13:02
 ## Změna provedená přímo na GitHubu
 Datum a čas provedení změny: 2024-10-02, 13:14
 Tomáš Žižka
+
+## Další testovací změna provedená přímo na GitHubu
+Datum a čas provedení změny: 2024-10-02, 13:17
+Tomáš Žižka
