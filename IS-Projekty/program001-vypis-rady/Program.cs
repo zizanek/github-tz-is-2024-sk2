@@ -39,7 +39,6 @@ class Program {
                 Console.Write("Nezadali jste celé číslo. Zadejte diference (celé číslo): ");
             }
 
-
             // Výpis uživatelského vstupu
             Console.WriteLine();
             Console.WriteLine("======================================");
@@ -49,10 +48,12 @@ class Program {
             Console.WriteLine();
             Console.WriteLine();
 
-
-
-
             // Logika pro výpis řady - TO-DO
+            int current = first;
+            while(current <= last) {
+                Console.WriteLine(current);
+                current = current + step;
+            }
 
 
             // Opakování programu
