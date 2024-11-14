@@ -46,6 +46,18 @@ string again = "a";
                 myArray[i] = randomNumber.Next(dm, hm+1);
                 Console.Write("{0}; ", myArray[i]);
             }
+
+            for(int i = 0; i<n/2 ; i++) {
+                int tmp = myArray[i];
+                myArray[i] = myArray[n-i-1];
+                myArray[n-i-1] = tmp;  
+            }
+
+            Console.WriteLine("\n\nPole po reverzi: ");
+            for(int i=0; i<n; i++) {
+                Console.Write("{0}; ", myArray[i]);
+            }
+
             
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
