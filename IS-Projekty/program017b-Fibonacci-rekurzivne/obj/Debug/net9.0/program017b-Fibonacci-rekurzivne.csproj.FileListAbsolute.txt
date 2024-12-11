@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\bin\Debug\net9.0\program017b-Fibonacci-rekurzivne.exe
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\bin\Debug\net9.0\program017b-Fibonacci-rekurzivne.deps.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\bin\Debug\net9.0\program017b-Fibonacci-rekurzivne.runtimeconfig.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\bin\Debug\net9.0\program017b-Fibonacci-rekurzivne.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\bin\Debug\net9.0\program017b-Fibonacci-rekurzivne.pdb
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\program017b-Fibonacci-rekurzivne.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\program017b-Fibonacci-rekurzivne.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\program017b-Fibonacci-rekurzivne.AssemblyInfo.cs
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\program017b-Fibonacci-rekurzivne.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\program017b-Fibonacci-rekurzivne.sourcelink.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\program017b-Fibonacci-rekurzivne.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\refint\program017b-Fibonacci-rekurzivne.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\program017b-Fibonacci-rekurzivne.pdb
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\program017b-Fibonacci-rekurzivne.genruntimeconfig.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017b-Fibonacci-rekurzivne\obj\Debug\net9.0\ref\program017b-Fibonacci-rekurzivne.dll
