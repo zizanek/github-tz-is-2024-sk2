@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\bin\Debug\net9.0\program017a-Fibonacci-iterativne.exe
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\bin\Debug\net9.0\program017a-Fibonacci-iterativne.deps.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\bin\Debug\net9.0\program017a-Fibonacci-iterativne.runtimeconfig.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\bin\Debug\net9.0\program017a-Fibonacci-iterativne.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\bin\Debug\net9.0\program017a-Fibonacci-iterativne.pdb
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\program017a-Fibonacci-iterativne.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\program017a-Fibonacci-iterativne.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\program017a-Fibonacci-iterativne.AssemblyInfo.cs
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\program017a-Fibonacci-iterativne.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\program017a-Fibonacci-iterativne.sourcelink.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\program017a-Fibonacci-iterativne.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\refint\program017a-Fibonacci-iterativne.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\program017a-Fibonacci-iterativne.pdb
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\program017a-Fibonacci-iterativne.genruntimeconfig.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017a-Fibonacci-iterativne\obj\Debug\net9.0\ref\program017a-Fibonacci-iterativne.dll

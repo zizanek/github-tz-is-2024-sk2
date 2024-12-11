@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program017a-Fibonacci-iterativne/1.0.0": {
+        "runtime": {
+          "program017a-Fibonacci-iterativne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program017a-Fibonacci-iterativne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
