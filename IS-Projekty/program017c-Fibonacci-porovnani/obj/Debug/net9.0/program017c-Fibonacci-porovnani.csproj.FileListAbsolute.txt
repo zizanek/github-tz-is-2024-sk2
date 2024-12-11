@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\bin\Debug\net9.0\program017c-Fibonacci-porovnani.exe
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\bin\Debug\net9.0\program017c-Fibonacci-porovnani.deps.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\bin\Debug\net9.0\program017c-Fibonacci-porovnani.runtimeconfig.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\bin\Debug\net9.0\program017c-Fibonacci-porovnani.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\bin\Debug\net9.0\program017c-Fibonacci-porovnani.pdb
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\program017c-Fibonacci-porovnani.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\program017c-Fibonacci-porovnani.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\program017c-Fibonacci-porovnani.AssemblyInfo.cs
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\program017c-Fibonacci-porovnani.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\program017c-Fibonacci-porovnani.sourcelink.json
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\program017c-Fibonacci-porovnani.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\refint\program017c-Fibonacci-porovnani.dll
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\program017c-Fibonacci-porovnani.pdb
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\program017c-Fibonacci-porovnani.genruntimeconfig.cache
+C:\aaa\IS-2024\github-tz-is-2024-sk1\IS-Projekty\program017c-Fibonacci-porovnani\obj\Debug\net9.0\ref\program017c-Fibonacci-porovnani.dll
